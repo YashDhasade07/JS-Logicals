@@ -1,0 +1,26 @@
+{
+  "name": "js-logicals",
+  "version": "1.0.0",
+  "main": "28 july.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashDhasade07/JS-Logicals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashDhasade07/JS-Logicals/issues"
+  },
+  "homepage": "https://github.com/YashDhasade07/JS-Logicals#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "node-cron": "^4.2.1"
+  }
+}
